@@ -7,6 +7,10 @@ public class Ejercicio01 {
 		Scanner sc = new Scanner(System.in);
 		
 // Clase perro
+
+// hola gg jacafare
+		
+
 		
 		Perro perro1 = new Perro();
 		Perro perro2 = new Perro();
